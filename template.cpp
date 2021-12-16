@@ -13,11 +13,11 @@
 
 using namespace std;
 
-ll ans, n, m, h, k, p, q, t, a, b, c, d, e, x, y, z;
+ll n, m, h, k, p, q, t, a, b, c, d, e, x, y, z;
 signed main() {
   ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);
   vector<ll> v;
   cin >> n >> m;
-  cout << ans;
+
   return 0;
 }
