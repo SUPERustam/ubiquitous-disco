@@ -1,10 +1,11 @@
-#include <algorithm> // special functions
-#include <cmath>
-#include <iostream>
-#include <map>
-#include <set>
-#include <string>
-#include <vector>
+#include <bits/stdc++.h>
+/* #include <algorithm> // special functions */
+/* #include <cmath> */
+/* #include <iostream> */
+/* #include <map> */
+/* #include <set> */
+/* #include <string> */
+/* #include <vector> */
 
 #define pb push_back
 #define in insert
